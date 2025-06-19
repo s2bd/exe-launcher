@@ -1,4 +1,4 @@
-# Cooper Black's Wine Launcher
+# Wine Launcher
 Ultra minimalist way to launch Windows software (.exe) from Linux. Useful for gaming, i guess.
 
 Written in C, for the world to see.
