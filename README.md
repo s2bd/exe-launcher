@@ -3,6 +3,7 @@ Ultra minimalist way to launch Windows software (.exe) from Linux. Useful for ga
 
 Written in C, for the world to see.
 
+> [!CAUTION]
 🍷 Wine (the alcoholic drink) is unhealthy in real life.
 
 ### Dependencies
