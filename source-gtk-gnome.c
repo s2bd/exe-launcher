@@ -1,5 +1,5 @@
 // Wine Launcher
-// @author Cooper Black (cooperblacks.github.io)
+// @author Stoobid
 
 #include <gtk/gtk.h>
 #include <stdio.h>
